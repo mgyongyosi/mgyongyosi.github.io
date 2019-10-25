@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mgyongyosi.github.io
+Token: d5dec5ea03be70af31165ee5beaba58bf9aedac7558542f47a7745300dcac7e0
